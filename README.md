@@ -20,8 +20,8 @@ You will need:
 * The 'seqinr' package installed in R. To install it, just use the next command:
 >install.packages("seqinr").
 
-If everything is ready, then in the script body set the path to your work directory (in Windows, use "\\" to lead the path)
->setwd("C:\\work_dyrectory")
+If everything is ready, then in the script body set the path to your work directory (in Windows, use "\\\" to lead the path)
+>setwd("C:\\\work_dyrectory")
 
 After that, set  required name of a sequneces.fasta file (by default, it's "sequences.fasta")
 >fas<-read.fasta("sequences.fasta", seqtype = c("AA"))
