@@ -1,5 +1,14 @@
 # nCoV_analysis
-It's a simple script which analises the key amino acid resudues in S gene of SARS-CoV-2 variants of concern
+
+## Introduction
+
+It's a simple script which analises the key amino acid resudues in S gene of SARS-CoV-2 variants of concern (B.1.1.7; B.1.135 (510Y.V2); P.1)
+All of these positions you can find here:
+https://cov-lineages.org/global_report_B.1.1.7.html
+https://cov-lineages.org/global_report_B.1.351.html
+https://cov-lineages.org/global_report_P.1.html
+
+
 
 You will need:
 * An amino acid sequences alignment with a reference sequences at the top (see an example)
