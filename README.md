@@ -13,7 +13,7 @@ All of these positions you can find here:
  - https://cov-lineages.org/global_report_B.1.351.html
  - https://cov-lineages.org/global_report_P.1.html
 
-The second table (RBD_subtab_s.tsv) contains aa substitutions in 6 key RBD positions which seem to be critical for binding to ACE2 receptors and for determining the host range of SARS-CoV-like viruses (see https://www.nature.com/articles/s41591-020-0820-9).
+The second table (**RBD_subtab_s.tsv**) contains aa substitutions in 6 key RBD positions which seem to be critical for binding to ACE2 receptors and for determining the host range of SARS-CoV-like viruses (see https://www.nature.com/articles/s41591-020-0820-9).
 
 NB!
 1) The script doesn't support **insertions**! 
