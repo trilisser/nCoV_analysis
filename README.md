@@ -2,8 +2,8 @@
 
 ## Introduction
 
-It's a simple R-script which gathers the key amino acid positions (18 in total) in S gene of SARS-CoV-2 variants of concern (B.1.1.7; B.1.135 (510Y.V2); P.1)
-All of these positions you can find here:
+It's a simple R-script which gathers the key amino acid substitutions in S protein (18 residues in total) of SARS-CoV-2 variants of concern (B.1.1.7; B.1.135 (510Y.V2); P.1)
+All of these positions of S protein you can find here:
  - https://cov-lineages.org/global_report_B.1.1.7.html
  - https://cov-lineages.org/global_report_B.1.351.html
  - https://cov-lineages.org/global_report_P.1.html
