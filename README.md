@@ -4,9 +4,9 @@
 
 It's a simple script which analises the key amino acid positions (18 in total) in S gene of SARS-CoV-2 variants of concern (B.1.1.7; B.1.135 (510Y.V2); P.1)
 All of these positions you can find here:
-https://cov-lineages.org/global_report_B.1.1.7.html
-https://cov-lineages.org/global_report_B.1.351.html
-https://cov-lineages.org/global_report_P.1.html
+ - https://cov-lineages.org/global_report_B.1.1.7.html
+ - https://cov-lineages.org/global_report_B.1.351.html
+ - https://cov-lineages.org/global_report_P.1.html
 
 NB!
 1) The script doesn't support **insertions**! 
