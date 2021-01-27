@@ -1,4 +1,4 @@
-# R-script for Gathering key aa substitutions in S protein of nCoV variants of concern (VOC)
+# R-script for gathering key aa substitutions in S protein of nCoV variants of concern (VOC)
 
 ## Introduction
 
