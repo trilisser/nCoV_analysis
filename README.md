@@ -16,7 +16,7 @@ NB!
 ## how to use it
 
 You will need:
-* **An amino acid sequences alignment** with a reference sequence at the top (see an example);
+* An amino acid sequences alignment of S protein with a **reference sequence** at the top (see an example);
 * The 'seqinr' package installed in R. To install it, just use the next command:
 >install.packages("seqinr").
 
