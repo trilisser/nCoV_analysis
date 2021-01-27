@@ -36,4 +36,6 @@ The output table contains amino acid substitutions in the key positions of the V
 The "num_of_X" column shows a number of unread ("X") key positions (to realtively assess of read quality).
 The three last columns show presence or absence of mutations in three especially concern positions (N501Y;	E484K;	K417N).
 
+For instance, the example "sequences.fasta" alignment contains the "mistery_sequences_3" which has "X"s in most of the key positions (in N501Y, E484K, K417N, in particular). It tells us about bad sequence reading, so we cannot make reliable conclusions about that isolate. In turn, "mistery_sequences_5" has two remarkable substituions in 484 and 501 positions! This would be cause for concern **if** the sequence was **real** (_I typed substitutions by myself for educational purposes only!_)
+
 Just try the example alignment! It is easier than it sounds :)
