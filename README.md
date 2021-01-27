@@ -17,7 +17,8 @@ NB!
 
 You will need:
 * **An amino acid sequences alignment** with a reference sequence at the top (see an example);
-* The 'seqinr' package installed in R. To install it, just use the next command: >install.packages("seqinr").
+* The 'seqinr' package installed in R. To install it, just use the next command:
+>install.packages("seqinr").
 
 If everything is ready, then in the script body set the path to your work directory (in Windows, use "\\" to lead the path)
 >setwd("C:\\work_dyrectory")
