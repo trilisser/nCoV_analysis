@@ -8,7 +8,7 @@ https://cov-lineages.org/global_report_B.1.1.7.html
 https://cov-lineages.org/global_report_B.1.351.html
 https://cov-lineages.org/global_report_P.1.html
 
-NB! THe script doesn't support _insertions_!
+NB! The script doesn't support *insertions*!
 
 ## how to use it
 
