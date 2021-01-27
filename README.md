@@ -8,8 +8,9 @@ https://cov-lineages.org/global_report_B.1.1.7.html
 https://cov-lineages.org/global_report_B.1.351.html
 https://cov-lineages.org/global_report_P.1.html
 
-NB! The script doesn't support **insertions**! 
-NB! The example sequencses are called "fake_sequence" and typed by myself for the demonstration only!
+NB!
+1) The script doesn't support **insertions**! 
+2) The example sequencses are called "fake_sequence" and typed by myself for the demonstration only!
 
 ## how to use it
 
