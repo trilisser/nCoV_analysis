@@ -2,12 +2,13 @@
 
 ## Introduction
 
-It's a simple script which analises the key amino acid resudues in S gene of SARS-CoV-2 variants of concern (B.1.1.7; B.1.135 (510Y.V2); P.1)
+It's a simple script which analises the key amino acid positions (18 in total) in S gene of SARS-CoV-2 variants of concern (B.1.1.7; B.1.135 (510Y.V2); P.1)
 All of these positions you can find here:
 https://cov-lineages.org/global_report_B.1.1.7.html
 https://cov-lineages.org/global_report_B.1.351.html
 https://cov-lineages.org/global_report_P.1.html
 
+NB! THe script doesn't support _insertions_!
 
 ## how to use it
 
@@ -23,7 +24,9 @@ After that, set  required name of a sequneces.fasta file (by default, it's "sequ
 
 that's all!
 
-The output fils is a table "sub_tab_s.tsv" with tab separated values. Excel can open it easily.
+The output file is a table "sub_tab_s.tsv" with tab separated values. Excel can open it easily.
 
 ## output structure
 
+The output table contains amino acid substitutions in the key positions of the VOC (18 positions in total).
+If there is no substitution, then a cell contains "-" symbol. If there is a deletion, it marks as "del".
