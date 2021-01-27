@@ -2,7 +2,7 @@
 
 ## Introduction
 
-It's a simple R-script which gathers the key amino acid substitutions in S protein of SARS-CoV-2 variants of concern (B.1.1.7; B.1.135 (510Y.V2); P.1).
+It's a simple R-script which gathers the key amino acid substitutions in S protein of SARS-CoV-2 variants of concern (B.1.1.7; B.1.351 (510Y.V2); P.1).
 
 The output of a script is two tables.
 
