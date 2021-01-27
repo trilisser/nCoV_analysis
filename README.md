@@ -33,7 +33,7 @@ The output table contains amino acid substitutions in the key positions of the V
 * If there is a deletion, it is marked as "del".
 * If a position is not read, it is marked as "X".
 
-The "num_of_X" column shows a number of unread ("X") key positions (to realtively assess of read quality)
+The "num_of_X" column shows a number of unread ("X") key positions (to realtively assess of read quality).
 The three last columns show presence or absence of mutations in three especially concern positions (N501Y;	E484K;	K417N).
 
 Just try the example alignment! It is easier than it sounds :)
